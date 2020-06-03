@@ -10,7 +10,6 @@ import java.util.Base64;
  */
 public class SecuredGCMUsageMain {
 
-
     public static void main(String args[]) {
 
         //String messageToEncrypt = args[0];
